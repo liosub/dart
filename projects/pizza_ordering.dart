@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   const order = ['margherita', 'pepperoni', 'pineapple'];
-  print("total price is ${ordercal(order)}");
+  print("total price is  ${ordercal(order)}");
 }
 
 double ordercal(List order) {
